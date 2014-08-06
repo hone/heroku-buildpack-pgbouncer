@@ -13,7 +13,7 @@ unset GIT_DIR
 # config
 PGBOUNCER_VERSION="1.5.4-heroku"
 STUNNEL_VERSION="5.02"
-S3_BUCKET="gregburek-buildpack-pgbouncer"
+S3_BUCKET="heroku-buildpack-ruby"
 
 # parse and derive params
 BUILD_DIR=$1
